@@ -1,0 +1,2 @@
+This folder contains instantanious vertical velocity (w) data from SOWFA-6 for three slope-parameters (Sh = 0.01, 0.05, 0.1) and four Froude numbers (Fr = 0.01, 0.1, 0.3, 0.5) each Sh.
+The w data is collected after simulatoin times 40, 60, 22.5, and 25 thousand seconds for Fr = 0.01, 0.1, 0.3, and 0.5, respectively.
